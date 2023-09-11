@@ -15,6 +15,6 @@
 - [**Solution**](https://github.com/khalid586/Problem-Setting/blob/main/Solutions/Solution%5BSave%20Money%5D.cpp)
 
 ### Evenly Divisible
-- **If we want to get a number which will be divisible by all the given N numbers then we just have to calculate the LCM (Least Common Multiple) (লসাগু) of those N numbers.**
+- If we want to get a number which will be divisible by all the given N numbers then **we just have to calculate the LCM (Least Common Multiple) (লসাগু) of those N numbers.**
 
 - [**Solution**](https://github.com/khalid586/Problem-Setting/blob/main/Solutions/Solution%5BEvenly%20Divisible%5D.cpp)
