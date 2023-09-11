@@ -11,9 +11,9 @@
     - The sum of first I ODD numbers is I<sup>2</sup>.
         - Example: 5 is the 3<sup>rd</sup> ODD number (Before that we have 1 and 3).So here I = 3.The sum of 1+3+5 = 9 which is equal to 3<sup>2</sup> or I<sup>2</sup>.
     - So you just have to identify which ODD number it is and square that to get the answer.(7 is 4<sup>th</sup> ODD number , 9 is 5<sup>th</sup> ODD number and so on) 
-- [**Solution**]()
+- [**Solution**](https://github.com/khalid586/Problem-Setting/blob/main/Solutions/Solution%5BSave%20Money%5D.cpp)
 
 ### Evenly Divisible
 - **If we want to get a number which will be divisible by all the given N numbers then we just have to calculate the LCM (Least Common Multiple) (লসাগু) of those N numbers.**
 
-- [**Solution**]()
+- [**Solution**](https://github.com/khalid586/Problem-Setting/blob/main/Solutions/Solution%5BEvenly%20Divisible%5D.cpp)
