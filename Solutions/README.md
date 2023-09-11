@@ -10,7 +10,7 @@
     - If you observe you will notice a pattern.
     - The sum of first I ODD numbers is I<sup>2</sup>.
         - Example: 5 is the 3<sup>rd</sup> ODD number (Before that we have 1 and 3).So here I = 3.The sum of 1+3+5 = 9 which is equal to 3<sup>2</sup> or I<sup>2</sup>.
-    - So you just have to identify which ODD number it is and square that to get the answer.(7 is 4<sup>th</sup> ODD number , 9 is 5<sup>th</sup> ODD number and so on) 
+    - So you just have to identify which ODD number it is and square that to get the answer.(7 is 4<sup>th</sup> ODD number so square 4 to get the sum of all ODD numbers from 1 to 7, 9 is 5<sup>th</sup> ODD number so square 5 to get the sum of all ODD numbers from 1 to 9 and so on) 
 - [**Solution**](https://github.com/khalid586/Problem-Setting/blob/main/Solutions/Solution%5BSave%20Money%5D.cpp)
 
 ### Evenly Divisible
