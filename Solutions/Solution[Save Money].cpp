@@ -8,7 +8,7 @@ int32_t main() {
 
      while(t--){
           int n; cin >> n;
-          int ans = ((n+1)/2) * ((n+1)/2);
+          int ans = ((n+1)/2) * ((n+1)/2); // (n+1)/2 is equal to n/2 + n%2
           cout << ans << '\n';
      }
      
