@@ -1,6 +1,6 @@
 ![banner](assets/Banner2.PNG)
 
-# <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "45px"> Introduction
+## <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "45px"> Introduction
 
 **Previously I had experience of solving problems on various online judges and participating in online & onsite coding competitions.** 
 
@@ -11,13 +11,16 @@
 
 **You will find the contest link [Here](https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8)**
 
-- Problems
-    - Save Money
-    - Evenly Divisible
+- **Problems**
+    - **Save Money**
+    - **Evenly Divisible**
 
 <br>
 
-# <img src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" align = "center" width = "60px" height = "45px"> Resources
+## Resources
 - [**Problem Statements**](https://github.com/khalid586/Problem-Setting/tree/main/Problem%20statements)
 - [**Test Cases**](https://github.com/khalid586/Problem-Setting/tree/main/Test%20cases)
 - [**Solutions**](https://github.com/khalid586/Problem-Setting/tree/main/Solutions)
+
+## <img src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" align = "center" width = "60px" height = "45px"> Editorial
+- You will get the Editorial [**Here**](https://github.com/khalid586/Problem-Setting/tree/main/Solutions)
