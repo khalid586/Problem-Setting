@@ -22,10 +22,10 @@
 
 <br>
 
-## Resources
+## <img align = "center" alt = "" src = "assets/green stat.gif"  width="50px"> Resources
 - [**Problem Statements**](https://github.com/khalid586/Problem-Setting/tree/main/Problem%20statements)
 - [**Test Cases**](https://github.com/khalid586/Problem-Setting/tree/main/Test%20cases)
 - [**Solutions**](https://github.com/khalid586/Problem-Setting/tree/main/Solutions)
 
-## <img src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" align = "center" width = "60px" height = "45px"> Editorial
+## <img src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" align = "center" width = "50px"> Editorial
 - You will get the Editorial [**Here**](https://github.com/khalid586/Problem-Setting/tree/main/Solutions)
