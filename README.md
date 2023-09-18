@@ -1,5 +1,10 @@
 ![banner](assets/Banner2.PNG)
 
+![](https://img.shields.io/badge/Competitive-%20Programming-%23E60023.svg)
+![](https://img.shields.io/badge/Programming-%20Contest-%20E60023.svg)
+
+![GitHub stars](https://img.shields.io/github/stars/khalid586/Problem-Setting) 
+
 ## <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "45px"> Introduction
 
 **Previously I had experience of solving problems on various online judges and participating in online & onsite coding competitions.** 
