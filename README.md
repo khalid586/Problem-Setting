@@ -5,7 +5,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/khalid586/Problem-Setting) 
 
-## <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "45px"> Introduction
+### <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "60px" height = "45px"> Story
 
 **Previously I had experience of solving problems on various online judges and participating in online & onsite coding competitions.** 
 
@@ -13,7 +13,7 @@
 
 **I had the opportunity to set 2 problems in the contest and experience the problem setting process.**
 
-
+## Links
 **You will find the contest link [Here](https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8)**
 
 - **Problems**
