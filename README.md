@@ -9,7 +9,7 @@
 
 >**Previously I had experience of solving problems on various online judges and participating in online & onsite coding competitions.** <br><br>
 **In 2023 we had an Intra University programming competition organized by our computer club. Our faculty proposed the students having onsite coding competition experience should set a few problems in this contest.**  <br><br>
-**I had the opportunity to set 2 problems in the contest and experience the problem setting process.**<br>
+**I had the opportunity to set 2 problems in the contest and experience the problem setting process.**<br><br>
 
 ## Links
 **You will find the contest link [Here](https://toph.co/arena?practice=64765afcd47a320767c000cf#!/p/6473fe50d47a320767bfcdb8)**
