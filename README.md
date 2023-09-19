@@ -7,10 +7,8 @@
 
 ### <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width = "50px"> Story
 
-**Previously I had experience of solving problems on various online judges and participating in online & onsite coding competitions.** 
-
-**In 2023 we had an Intra University programming competition organized by our computer club. Our faculty proposed the students having onsite coding competition experience should set a few problems in this contest.**
-
+>**Previously I had experience of solving problems on various online judges and participating in online & onsite coding competitions.** <br><br>
+**In 2023 we had an Intra University programming competition organized by our computer club. Our faculty proposed the students having onsite coding competition experience should set a few problems in this contest.**  <br><br>
 **I had the opportunity to set 2 problems in the contest and experience the problem setting process.**
 
 ## Links
@@ -28,4 +26,4 @@
 - [**Solutions**](https://github.com/khalid586/Problem-Setting/tree/main/Solutions)
 
 ## <img src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" align = "center" width = "50px"> Editorial
-- You will get the Editorial [**Here**](https://github.com/khalid586/Problem-Setting/tree/main/Solutions)
+- **You will get the Editorial** [**Here**](https://github.com/khalid586/Problem-Setting/tree/main/Solutions)
