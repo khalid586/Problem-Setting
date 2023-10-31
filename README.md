@@ -5,7 +5,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/khalid586/Problem-Setting) 
 
-### <img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width="57px" height = "38px"> [ Story](#story)
+### [<img src = "https://cdn.dribbble.com/users/1138721/screenshots/10809828/media/478d32b2e65c8c3194b7f2154e179231.gif" align = "center" width="57px" height = "38px">]() Overview
 
 >**Previously I had experience of solving problems on various online judges and participating in online & onsite coding competitions.** <br><br>
 **In 2023 we had an Intra University programming competition organized by our computer club. Our faculty proposed the students having onsite coding competition experience should set a few problems in this contest.**  <br><br>
@@ -20,10 +20,10 @@
 
 <br>
 
-## <img align = "center" alt = "" src = "assets/green stat.gif"  width="57px" height = "38px"> [ Resources](#resources)
+## [<img align = "center" alt = "" src = "assets/green stat.gif"  width="57px" height = "38px">]() Resources
 - [**Problem Statements**](https://github.com/khalid586/Problem-Setting/tree/main/Problem%20statements)
 - [**Test Cases**](https://github.com/khalid586/Problem-Setting/tree/main/Test%20cases)
 - [**Solutions**](https://github.com/khalid586/Problem-Setting/tree/main/Solutions)
 
-## <img src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" align = "center" width="57px" height = "38px"> [ Editorial](#editorial)
+## [<img src = "https://cdn.dribbble.com/users/108637/screenshots/2971812/comp_1.gif" align = "center" width="57px" height = "38px">]() Editorial
 - **You will get the Editorial** [**Here**](https://github.com/khalid586/Problem-Setting/tree/main/Solutions)
